@@ -34,8 +34,8 @@
   Personal portfolio website hosted on Vercel to showcase design and development skills.
 - 📙 [***vinix7webspire***](https://github.com/angelicaviannaantonetta/Final-Project-Kel-57-Vinix7-WebSpire) <br/>
   Provider offering services for creating various types of websites.
-- 📒 [***projectfarmin***](https://github.com/nickoprasty/project-farmin) <br/>
-  Direct link between farmers and end consumers.
+- 📒 [***aerynnnsh/uangku***](https://github.com/AerynnnSh/uangku-pixel) <br/>
+  A native PHP finance tracker featuring a unique Dark Pixel RPG theme.
 <img src="./img/Banner2.png" width="270" align="right" />
 <br/>
 <img src="./img/Banner.jpg" width="500" /><br/>
