@@ -32,8 +32,8 @@
   Specialized Fintech & Crypto UI/UX agency website featuring a technical blueprint aesthetic.
 - 📘 [***aerynnnsh/my-portofolio***](https://github.com/AerynnnSh/my-portofolio) <br/>
   Personal portfolio website hosted on Vercel to showcase design and development skills.
-- 📙 [***vinix7webspire***](https://github.com/angelicaviannaantonetta/Final-Project-Kel-57-Vinix7-WebSpire) <br/>
-  Provider offering services for creating various types of websites.
+- 📙 [***aerynnnsh/algoterminal***](https://github.com/AerynnnSh/AlgoTerminal-Project) <br/>
+  Real-time crypto dashboard with advanced charting and investment tools.
 - 📒 [***aerynnnsh/uangku***](https://github.com/AerynnnSh/uangku-pixel) <br/>
   A native PHP finance tracker featuring a unique Dark Pixel RPG theme.
 <img src="./img/Banner2.png" width="270" align="right" />
