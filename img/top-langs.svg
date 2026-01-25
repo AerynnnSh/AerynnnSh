@@ -125,44 +125,44 @@
       <g class="stagger" style="animation-delay: 100ms">
         <path
           data-testid="lang-pie"
-          size="37.40724194549684"
-          d="M 150 100 L 240 100 A 90 90 0 0 1 86.73237028812133 164.00942923226708 Z"
-          fill="#e34c26"
+          size="33.631880581100894"
+          d="M 150 100 L 240 100 A 90 90 0 0 1 103.54593966896542 177.08450089843353 Z"
+          fill="#3178c6"
         />
       </g>
     
       <g class="stagger" style="animation-delay: 200ms">
         <path
           data-testid="lang-pie"
-          size="25.52144676456425"
-          d="M 150 100 L 86.73237028812133 164.00942923226708 A 90 90 0 0 1 88.09741902199602 34.669528791982074 Z"
-          fill="#663399"
+          size="28.643653649651252"
+          d="M 150 100 L 103.54593966896542 177.08450089843353 A 90 90 0 0 1 85.46920104710873 37.26423678234617 Z"
+          fill="#e34c26"
         />
       </g>
     
       <g class="stagger" style="animation-delay: 300ms">
         <path
           data-testid="lang-pie"
-          size="18.712323839472724"
-          d="M 150 100 L 88.09741902199602 34.669528791982074 A 90 90 0 0 1 186.47372177778274 17.72201011402322 Z"
-          fill="#4F5D95"
+          size="20.236794171220403"
+          d="M 150 100 L 85.46920104710873 37.26423678234617 A 90 90 0 0 1 190.92124965123136 19.841087039671024 Z"
+          fill="#663399"
         />
       </g>
     
       <g class="stagger" style="animation-delay: 400ms">
         <path
           data-testid="lang-pie"
-          size="14.557575265292389"
-          d="M 150 100 L 186.47372177778274 17.72201011402322 A 90 90 0 0 1 237.44496700354728 78.70733117365208 Z"
-          fill="#3178c6"
+          size="14.328490825891866"
+          d="M 150 100 L 190.92124965123136 19.841087039671024 A 90 90 0 0 1 238.2327631350397 82.25233791295366 Z"
+          fill="#4F5D95"
         />
       </g>
     
       <g class="stagger" style="animation-delay: 500ms">
         <path
           data-testid="lang-pie"
-          size="3.8014121851737963"
-          d="M 150 100 L 237.44496700354728 78.70733117365208 A 90 90 0 0 1 240 99.99999999999997 Z"
+          size="3.1591807721355907"
+          d="M 150 100 L 238.2327631350397 82.25233791295366 A 90 90 0 0 1 240 99.99999999999997 Z"
           fill="#f1e05a"
         />
       </g>
@@ -173,37 +173,37 @@
         <svg data-testid="lang-names" x="25">
           <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 37.41%
+        TypeScript 33.63%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 25.52%
+        HTML 28.64%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 18.71%
+        CSS 20.24%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 14.56%
+        PHP 14.33%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 3.80%
+        JavaScript 3.16%
       </text>
     </g>
   </g></g>
